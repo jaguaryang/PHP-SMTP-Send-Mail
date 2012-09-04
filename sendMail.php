@@ -6,7 +6,7 @@ class sendMail {
 	*By:牟凌涛 MouLingtao
 	*个人博客:http://www.himlt.com/
 	*检查更新:http://www.himlt.com/archives/766.html
-	*GitHub:
+	*GitHub:https://github.com/MouLingtao/PHP-SMTP-Send-Mail
 	*
 	*感谢所有提供帮助的开源例子。由于各大网站转载后把你们名字去掉或替换
 	*成自己的网站名字，在下不知原作者，还望原作者见谅。
